@@ -2,7 +2,7 @@
 
 **`Systems Engineer & ML Practitioner (Research / Development)`**
 <p>
-  <a href="https://drive.google.com/file/d/157pxyXM1FnrEADft7flfimF2Ue0ZSjku/view?usp=sharing" style="text-decoration: none; display: flex; align-items: center;">
+  <a href="https://drive.google.com/file/d/1xGdtGN5mVkpPeBo5sHemUbvdxe6N7xv1/view?usp=sharing" style="text-decoration: none; display: flex; align-items: center;">
     <img alt="CV" src="https://github.com/user-attachments/assets/cc437633-b49f-4cdd-a439-cd1d3382c20e" style="height: 28px;"/>
     <span style="font-size: 500px; margin-left: 10px;">CV</span>
   </a>
